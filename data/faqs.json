@@ -1,0 +1,26 @@
+[
+    {
+        "q": "Is my Chronicle journal secure?",
+        "a": "Absolutely! Chronicle uses top-tier encryption and security protocols to keep your reflections safe and private."
+    },
+    {
+        "q": "Can I categorize my journal entries?",
+        "a": "Yes! Chronicle allows you to organize your entries using folders, collections, and custom tags. You can also filter them by date, mood, or category."
+    },
+    {
+        "q": "How does mood tracking work in Chronicle?",
+        "a": "You can tag each entry with a mood, and Chronicle provides insightful analytics with visual charts to help you understand your emotional journey."
+    },
+    {
+        "q": "Is Chronicle available on mobile?",
+        "a": "Yes! Chronicle is fully responsive and works seamlessly on all devices. A dedicated mobile app is also in development!"
+    },
+    {
+        "q": "Can I customize my journal's appearance?",
+        "a": "Yes! Chronicle lets you personalize your journaling experience with different themes, fonts, and layouts to match your style."
+    },
+    {
+        "q": "Does Chronicle support collaborative journaling?",
+        "a": "Yes! Chronicle allows you to share specific journal entries with trusted friends or mentors while keeping the rest private."
+    }
+]
